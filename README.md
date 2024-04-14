@@ -73,7 +73,21 @@ header{
     box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
 } 
 .bottom{
-display: flex
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: small;
+    color: #fff
+    margin-top: 10px;
+}
+.left{
+    display: flex;
+}
+isabel a{
+    color: #fff;
+    text-decoration: none;
+}
+    
 
 
     
