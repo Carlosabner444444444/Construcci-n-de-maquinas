@@ -2,7 +2,7 @@
     font-family: 'poppims' sans-serif;
 }
 body{
-    background-image: url("bg1.jpg");
+    background-image: url( https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffoto-gratis%2Fcolores-arremolinados-interactuan-danza-fluida-sobre-lienzo-que-muestra-tonos-vibrantes-patrones-dinamicos-que-capturan-caos-belleza-arte-abstracto_157027-2892.jpg%3Fsize%3D626%26ext%3Djpg%26ga%3DGA1.1.2008272138.1713052800%26semt%3Dsph&tbnid=LcKUk7WP-n33oM&vet=1&imgrefurl=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Fcolor&docid=tuzAcKpjivNXDM&w=626&h=351&hl=es-US&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=d846f38c3e3eb546&shem=abme%2Ctrie);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
