@@ -48,6 +48,35 @@ header{
     color: #fff
     padding: 0 0 0 42px;
     background: rgba(255,255,255,0.1);
+}
+¡{
+    position: relative;
+    top: -31px;
+    left: 17px;
+    color: #fff;
+}
+::webkit-imput-placeholder{
+    color: #fff;
+}
+.submit{
+    borde: none;
+    borde-raduis: 30px;
+    font-size: 15px;
+    height: 45px 
+    outline: none;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    cursor: pointer;
+    transition: .3s;
+}
+.submit:hover{
+    box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
+} 
+.bottom{
+display: flex
+
+
+    
     
 
     
